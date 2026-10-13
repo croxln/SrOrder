@@ -7,6 +7,7 @@
 [![PaperMC](https://img.shields.io/badge/PaperMC-1.21.x-1F8CEB?style=for-the-badge&logo=minecraft&logoColor=white)](https://papermc.io/)
 [![Version](https://img.shields.io/badge/Version-1.0.0-38BDF8?style=for-the-badge)](https://github.com/croxln/SrOrder)
 [![Status](https://img.shields.io/badge/Status-🟢_Active_Production-4ADE80?style=for-the-badge)](https://github.com/croxln/SrOrder)
+[![Stars](https://img.shields.io/github/stars/croxln/SrOrder?style=for-the-badge&color=FACC15&logo=github)](https://github.com/croxln/SrOrder/stargazers)
 [![License](https://img.shields.io/badge/License-Proprietary-EF4444?style=for-the-badge)](https://github.com/croxln/SrOrder)
 
 <p align="center">
@@ -24,6 +25,16 @@
 - **🔒 Async Escrow Settlement:** Funds and items are locked securely in escrow during active order fulfillment, eliminating duplication or desync exploits.
 - **💹 Multi-Economy Bridging:** Native support for Vault currency, town treasury balances, and custom commodity currencies.
 - **📊 Intuitive High-Tick GUI:** Paginated market browser with real-time price trend indicators, history tracking, and one-click fulfillment.
+
+---
+
+### 📈 Repository Star History
+
+<div align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=croxln/SrOrder&type=Date&theme=dark)](https://star-history.com/#croxln/SrOrder&Date)
+
+</div>
 
 ---
 
